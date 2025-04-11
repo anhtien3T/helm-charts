@@ -1,0 +1,6 @@
+image:
+  repository: banking-api
+  tag: v1
+service:
+  type: ClusterIP
+  port: 80
